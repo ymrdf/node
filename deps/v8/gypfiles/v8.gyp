@@ -2685,6 +2685,7 @@
             '../src/builtins/array.tq',
             '../src/builtins/array-copywithin.tq',
             '../src/builtins/array-foreach.tq',
+            '../src/builtins/array-reverse.tq',
             '../src/builtins/typed-array.tq',
             '../src/builtins/data-view.tq',
             '../third_party/v8/builtins/array-sort.tq',
